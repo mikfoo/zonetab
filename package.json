@@ -1,6 +1,6 @@
 {
   "name": "zonetab",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node module that fetches the zone.tab file and formats it as JSON.",
   "main": "./lib/zonetab.js",
   "bin": {
