@@ -1,7 +1,7 @@
 {
   "name": "zonetab",
   "version": "1.0.1",
-  "description": "",
+  "description": "Node module that fetches the zone.tab file and formats it as JSON.",
   "main": "./lib/zonetab.js",
   "bin": {
     "zonetab": "./bin/index.js"
@@ -9,8 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mikkel (https://github.com/mikfoo)",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/mikfoo/zonetab"
+  },
   "dependencies": {
     "node-fetch": "^2.6.0",
     "yargs": "^15.1.0"
